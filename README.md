@@ -1,1 +1,2 @@
-# redux-card-component
+# Reusable Card Component 
+
